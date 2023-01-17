@@ -3,7 +3,7 @@ public class probe_pr_6 {
         int count = 0;
         int randNumber = 0;
 
-        while (randNumber != 11) {
+        while (randNumber != 10) {
             randNumber = (int) (Math.random() * 20 + 1);
             System.out.println("The number generated is " + randNumber);
             count = count + 1;
