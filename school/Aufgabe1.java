@@ -1,8 +1,8 @@
-package neuesPackage;
+// package neuesPackage;
 
-class NeuesProgramm {
+// class NeuesProgramm {
 
-    public static void main(String[] args) {
-        System.out.print("hi");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.print("hi");
+//     }
+// }
